@@ -1,0 +1,10 @@
+D:\Programmer\Visual Basic\Sorting\Sorting\bin\Debug\Sorting.exe.config
+D:\Programmer\Visual Basic\Sorting\Sorting\bin\Debug\Sorting.exe
+D:\Programmer\Visual Basic\Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\Programmer\Visual Basic\Sorting\Sorting\bin\Debug\Sorting.xml
+D:\Programmer\Visual Basic\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+D:\Programmer\Visual Basic\Sorting\Sorting\obj\Debug\Sorting.Resources.resources
+D:\Programmer\Visual Basic\Sorting\Sorting\obj\Debug\Sorting.vbproj.GenerateResource.Cache
+D:\Programmer\Visual Basic\Sorting\Sorting\obj\Debug\Sorting.exe
+D:\Programmer\Visual Basic\Sorting\Sorting\obj\Debug\Sorting.xml
+D:\Programmer\Visual Basic\Sorting\Sorting\obj\Debug\Sorting.pdb
